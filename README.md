@@ -1,6 +1,6 @@
 # Classification
 
-Here you will find some of my work in Python relating to data analysis.
+Here you will find some of my work in data analysis using Python.
 
 Specifically, these are exercises based on the [Stellar Classification Dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download) hosted on Kaggle.
 
